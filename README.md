@@ -5,5 +5,4 @@
 <a href="https://www.linkedin.com/in/rafael-faria-gomes-b69715209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  ![Snake animation](https://github.com/Gomes-Rafael/Gomes-Rafael)
- 
+![Snake animation](https://github.com/Rafael-Gomes/Rafael-Gomes/blob/output/github-contribution-grid-snake.svg)
